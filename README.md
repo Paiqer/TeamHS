@@ -1,5 +1,5 @@
-SoUrcE BaYgR
-==============
+SoUrcE SuGaR |🦅
+=============
 
 ______________________________________________________________________________________________________________________
 
@@ -8,7 +8,7 @@ Installation
 
 install :
 
-```git clone https://github.com/BaYgR/SoUrcE BaYgR && cd SoUrcE BaYgR && chmod +x install.sh && ./install.sh```
+```git clone https://SuGaR.com/SuGaR/SoUrcE SuGaR && cd SoUrcE SuGaR && chmod +x install.sh && ./install.sh```
 
 ______________________________________________________________________________________________________________________
 
@@ -41,7 +41,7 @@ Run bot
 ______________________________________________________________________________________________________________________
 
 
-```./SoUrcE BaYgR/ts```
+```./SoUrcE SuGaR/ts```
 
 ______________________________________________________________________________________________________________________
 
@@ -50,7 +50,7 @@ License
 
 The MIT License (MIT)
 
-Copyright (TM) 2018 **SoUrcE BaYgR**
+Copyright (TM) 2018 **SoUrcE SuGaR**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
